@@ -14,8 +14,13 @@ BACE_sample.py
 An example for usage
 
 #Requirements
-pytorch                   1.7.1             
+
+pytorch                   1.7.1
+
 rdkit                     2020.09.1
+
 tqdm                      4.62.3
+
 python                    1.7.1
+
 numpy                     1.21.2
