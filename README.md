@@ -13,7 +13,7 @@ Python files to build a MultiGran model for molecular property predictions.
 BACE_sample.py
 An example for usage
 
-#Requirements
+# Requirements
 
 pytorch                   1.7.1
 
