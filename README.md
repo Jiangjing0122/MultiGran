@@ -24,3 +24,5 @@ tqdm                      4.62.3
 python                    1.7.1
 
 numpy                     1.21.2
+
+The code of the MultiGran model will be upload after the paper be accepted.
