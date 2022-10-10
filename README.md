@@ -32,8 +32,6 @@ BACE, BBBP, HIV, Tox21, and ToxCast from MoleculeNet[1], FDA and LogP from ZINC[
 
 python main.py
 
-Datasets can be changed in the 222 line of main.py.
-
 
 # Reference
 [1] Wu, Z., Ramsundar, B., Feinberg, E. N., Gomes, J., Geniesse, C., Pappu, A. S., Leswing, K., and Pande, V. (2018). Moleculenet: a benchmark for molecular
